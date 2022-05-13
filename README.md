@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Vinny Shipley's Portfolio Page
 
-Make it your own! 
+URL to live deployed site: https://shipleyportfolio.netlify.app
