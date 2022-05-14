@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Vinny Shipley",
-      "titles": [ "Bartender turnedSoftware Developer" ],
+      "titles": [ "Bartender turned Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/VinnyShipley",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "facebook",
+          "url": "https://www.facebook.com/vinny.shipley",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "square-profile.jpg"
+      "image": "img/square-profile.jpg"
     },
     "skills": {
       "icons": [

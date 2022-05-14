@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Vinny Shipley. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Vinny Shipley. I’m a JavaScript FullStack Software Developer. Before pursuing a career in tech I spent the better part of a decade in the restaurant sector, working primarily as a bartender. While there, I learned how to exist in a dynamic and fast paced team that valued direct communication to get the job done in a timely manner, without sacrificing the quality of the guest’s experience. I feel that these communication and teamwork skills are some of the strongest assets I bring to the table now that I’m working in tech. As a software developer, I love having the chance to solve new and exciting puzzles for a living, and being challenged to think in clever ways to create code. While I get a lot out of working through code on my own, I get the most enjoyment in a team setting. It is so rewarding to me to finish a pair or group coding session, and realize that everyone involved has learned something new after being challenged to think differently than they would have if they were working in isolation. I believe that this is the kind of innovation that makes the tech industry so great, and the reason I am so excited to be a part of it.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
