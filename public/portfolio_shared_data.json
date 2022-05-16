@@ -10,11 +10,11 @@
         },
         {
           "name": "facebook",
-          "url": "https://www.facebook.com/vinny.shipley",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/vinny-shipley/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "img/square-profile.jpg"
+      "image": "images/portfolio/square-profile.jpg"
     },
     "skills": {
       "icons": [
