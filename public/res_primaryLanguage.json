@@ -1,118 +1,100 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Vinny Shipley. I’m a JavaScript FullStack Software Developer. Before pursuing a career in tech I spent the better part of a decade in the restaurant sector, working primarily as a bartender. While there, I learned how to exist in a dynamic and fast paced team that valued direct communication to get the job done in a timely manner, without sacrificing the quality of the guest’s experience. I feel that these communication and teamwork skills are some of the strongest assets I bring to the table now that I’m working in tech. As a software developer, I love having the chance to solve new and exciting puzzles for a living, and being challenged to think in clever ways to create code. While I get a lot out of working through code on my own, I get the most enjoyment in a team setting. It is so rewarding to me to finish a pair or group coding session, and realize that everyone involved has learned something new after being challenged to think differently than they would have if they were working in isolation. I believe that this is the kind of innovation that makes the tech industry so great, and the reason I am so excited to be a part of it.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Vinny Shipley. I’m a JavaScript FullStack Software Developer. Before pursuing a career in tech I spent the better part of a decade in the restaurant sector, working primarily as a bartender. While there, I learned how to exist in a dynamic and fast paced team that valued direct communication to get the job done in a timely manner, without sacrificing the quality of the guest’s experience. I feel that these communication and teamwork skills are some of the strongest assets I bring to the table now that I’m working in tech. As a software developer, I love having the chance to solve new and exciting puzzles for a living, and being challenged to think in clever ways to create code. While I get a lot out of working through code on my own, I get the most enjoyment in a team setting. It is so rewarding to me to finish a pair or group coding session, and realize that everyone involved has learned something new after being challenged to think differently than they would have if they were working in isolation. I believe that this is the kind of innovation that makes the tech industry so great, and the reason I am so excited to be a part of it.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "LQR",
+      "startDate": "2022",
+      "description": "LQR was my group's final project for the 201 class of Code Fellows. The app takes in a base liquor and a general vibe that the user would like to drink the final cocktail in, and they recieve a cocktail based on those parameters. The app utilized local storage to save a personalized list of all the cocktails that the user had picked.",
+      "images": [
+        "images/portfolio/LQR-screenshot.png"
+      ],
+      "url": "https://cocktail-app.github.io/cocktail-app/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "BusMall",
+      "startDate": "2022",
+      "description": "Bus Mall was one of the final labs in the 201 class at Code Fellows. The project had us create an option for the user to select between three pictures with a click. Once clicked that picture would have an increased score and three new and non-repeating images would be presented to the user. After twenty five selections had been made, a graph that utilized ersisting local data would be displayed to the user showing their choices.",
+      "images": [
+        "images/portfolio/Bus-mall-screenshot.png"
+      ],
+      "url": "https://vinnyshipley.github.io/bus-mall/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        }
+      ]
+    },
+    {
+      "title": "301 Final Project",
+      "startDate": "2022",
+      "description": "Placeholder text",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "JavaScript Fullstack Student",
+      "years": "3.2022 - present",
+      "mainTech": [
+        "JavaScript 3.22"
+      ],
+      "technologies": [
+        "React",
+        "CSS 3",
+        "HTML 5",
+        "Bootstrap"
+      ]
+    }
+  ]
+}
